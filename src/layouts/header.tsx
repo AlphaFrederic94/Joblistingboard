@@ -14,13 +14,13 @@ const CompanyLogo = () => {
     <div className="flex items-center gap-2">
       <Image
         src={'/main.png'}
-        alt="100xJobs"
+        alt="GradJobs"
         width={30}
         height={30}
         className="rounded-full"
       />
       <h3 className="text-xl font-bold inline-flex bg-gradient-to-r from-[#63ADF7] to-[#296EE7] bg-[200%_auto] bg-clip-text leading-tight text-transparent dark:from-[#63ADF7]  dark:to-[#296EE7]">
-        100xJobs
+        GradJobs
       </h3>
     </div>
   );

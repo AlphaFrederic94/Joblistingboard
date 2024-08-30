@@ -14,7 +14,7 @@ const HeroSection = () => {
             className="flex border border-neutral-200 dark:border-neutral-600 bg-gradient-to-b from-transparent dark:via-white/5 to-purple-400 backdrop-blur-md py-2 gap-2 items-center px-4 rounded-full"
           >
             <Icon icon="sparcle" className="text-yellow-500" size="18" />
-            <p className=" text-primary-text text-sm">Star us on Github</p>
+            <p className=" text-primary-text text-sm">Follow us on Github</p>
           </Link>
           <div className="flex items-center flex-col gap-3 max-w-[950px]">
             <div>
@@ -24,13 +24,13 @@ const HeroSection = () => {
                   Opportunity
                 </span>
                 , Hire the Perfect Talent */}
-                Find Your Perfect Job Today!
+                Launch Your Career with GradJobs
               </h1>
             </div>
             <div>
               <p className="max-w-2xl text-sm md:text-lg font-light text-foreground text-center">
-                Discover a thoughtfully selected collection of job opportunities
-                chosen by our dedicated team of experts.
+                Connect with top employers, find your dream job, and kickstart
+                your professional journey.
               </p>
             </div>
           </div>

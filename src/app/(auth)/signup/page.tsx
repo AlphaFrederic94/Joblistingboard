@@ -4,7 +4,7 @@ import { FormContainer } from '@/layouts/form-container';
 const SignupPage = () => {
   return (
     <FormContainer
-      heading={'Welcome to 100xJobs'}
+      heading={'Welcome to GradJobs'}
       description={'Please enter your details to sign up.'}
     >
       <Signup />

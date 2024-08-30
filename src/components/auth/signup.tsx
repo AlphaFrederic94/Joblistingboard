@@ -44,7 +44,7 @@ const Signup = () => {
         });
       }
       toast({
-        title: 'Signup successful! Welcome to 100xJobs!',
+        title: 'Signup successful! Welcome to GradJobs!',
         variant: 'success',
       });
       const searchParams = new URLSearchParams(window.location.search);

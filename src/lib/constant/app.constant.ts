@@ -1,7 +1,7 @@
 import { IconProps } from '@/components/ui/icon';
 import APP_PATHS from '@/config/path.config';
 
-export const GITHUB_REPO = 'https://github.com/code100x/job-board';
+export const GITHUB_REPO = 'https://github.com/AlphaFrederic94';
 export const navbar = [
   { id: 1, label: 'Jobs', path: APP_PATHS.JOBS },
   {
@@ -24,30 +24,30 @@ export const socials: {
   {
     icon: 'youtube',
     label: 'Youtube',
-    href: 'https://www.youtube.com/@100xDevs-n1w',
+    href: 'https://www.youtube.com',
   },
-  { icon: 'twitter', label: 'Twitter', href: 'https://x.com/100xDevs' },
-  { icon: 'github', label: 'Github', href: 'https://github.com/code100x' },
+  { icon: 'twitter', label: 'Twitter', href: 'https://x.com' },
+  { icon: 'github', label: 'Github', href: 'https://github.com' },
   {
     icon: 'instagram',
     label: 'Instagram',
-    href: 'https://www.instagram.com/100xdevsofficial/',
+    href: 'https://www.instagram.com',
   },
   {
     icon: 'linkedin',
     label: 'Linkedin',
-    href: 'https://www.linkedin.com/company/100xdevs/',
+    href: 'https://www.linkedin.com',
   },
   {
     icon: 'telergam',
     label: 'Telegram',
-    href: 'https://t.me/kirat_internal_group',
+    href: '',
   },
 ];
 
 export const footerLinks = {
   '100xlinks': [
-    { label: 'App', href: 'https://app.100xdevs.com' },
+    { label: 'App', href: '' },
     { label: 'Projects', href: '' },
     { label: 'Reports', href: '' },
   ],

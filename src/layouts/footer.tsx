@@ -11,17 +11,17 @@ const Footer = () => {
           <div className="flex items-center gap-2">
             <Image
               src="/main.png"
-              alt="100xJobs"
+              alt="GradJobs"
               width={90}
               height={90}
               className="rounded-full w-16 h-16 md:w-20 md:h-20"
             />
             <div className="flex flex-col">
               <h3 className="text-4xl md:text-5xl font-bold inline-flex bg-gradient-to-r from-[#63ADF7] to-[#296EE7] bg-[200%_auto] bg-clip-text leading-tight text-transparent dark:from-[#63ADF7] dark:to-[#296EE7]">
-                100xDevs
+                GradJobsDevs
               </h3>
               <p className="text-neutral-50 text-sm md:text-lg">
-                because 10x ain&apos;t enough
+                Join Thousands of Successful Graduates
               </p>
             </div>
           </div>
